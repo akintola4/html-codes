@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+ <body>
+  <h4>Travel X</h4>
+  <img src="https://thumbs.dreamstime.com/z/travel-world-cloud-concept-18623497.jpg" width="300"
+  alt="travel"> 
+  <h5> login into your account</h5>
+  <input placeholder="Email">
+  <br>
+  <input placeholder="Password" type="password">
+  <br>
+  <input type="Checkbox">
+  <em>Send me updates</em>
+  <br>
+  <button>Sign up</button>
+ </body>
+</html>
