@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<body>
+  <head><h2>ARTIST PAGES TO FOLLOW </head>
+  
+    <h4>@rihanna</h4>
+  
+  <button>
+<a href="https://twitter.com/rihanna?s=09">Follow
+</a>
+  </button>
+  <button>
+    <a href="https://twitter.com/rihanna/status/1410383345389768707?s=19"
+    >Retweet
+  </a></button> 
+<br>
+    <p>
+<h4>@dababy</h4>
+  
+  <button>
+    <a href="https://twitter.com/DaBabyDaBaby?s=09">Follow</a>
+  </button>
+    <button><a href="https://twitter.com/DaBabyDaBaby/status/1406380175332417542?s=19">Retweet</a>
+    </button>
+</body>
+</html>
